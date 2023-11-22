@@ -1,7 +1,6 @@
 import NumberTimer from "./utils/number";
+import appendNumber from "./page/appendNumber";
 
 
-var n = new NumberTimer();
-n.onNumberCreated = function(n, isPrime) {
-    console.log("Number created: " + number);
-};
+
+import './page/event'
